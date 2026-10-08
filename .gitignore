@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# OS files
+.DS_Store
+
+# Test output
+test-output/
+
+# Logs
+*.log
